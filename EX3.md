@@ -214,5 +214,5 @@ SELECT * FROM salesman1 RIGHT JOIN customer1 ON salesman1.salesman_id=customer1.
 ### OUTPUT FOR RIGHT JOIN:
 ![310o2](https://github.com/varshxnx/EX-3-SubQueries-Views-and-Joins/assets/122253525/93f59528-75b7-4179-b4f6-fe78da2d6de4)
 
-##Result:
+### Result:
 The program to create SubQueries, Views and Joins in SQL has been executed successfully.
